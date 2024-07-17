@@ -1,0 +1,57 @@
+#mainHeading{
+    background-color: rgb(10, 20, 75);
+    text-align: center;
+    font-size: 2.5rem;
+    color: rgb(229, 230, 233);
+    border: 4.5px solid rgba(0, 0, 0, 0.559);
+    border-radius:20px;
+    text-shadow: 10px 10px 10px rgba(94, 55, 183, 0.967);
+    box-shadow: 10px 10px 10px palevioletred;
+}
+#body{
+    background-color:rgb(35, 68, 35) ;
+}
+#mainHeading1{
+    background-color: rgb(44, 10, 67);
+    text-align: center;
+    font-size: 2.5rem;
+    color: rgb(229, 230, 233);
+    border: 4.5px solid rgba(144, 65, 65, 0.559);
+    border-radius:20px;
+    text-shadow: 10px 10px 10px rgba(94, 55, 183, 0.967);
+    box-shadow: 10px 10px 10px palevioletred;
+}
+
+#ironMan{
+    background-color: rgba(168, 215, 113, 0.622);
+    color: rgb(1, 2, 5);
+    width: 200px;
+}
+
+#captainamerica{
+    background-color: rgba(168, 215, 113, 0.622);
+    color: rgb(1, 2, 5);
+    width: 200px;  
+}
+
+#thor{
+    background-color: rgba(168, 215, 113, 0.622);
+    color: rgb(1, 2, 5);
+    width: 200px;  
+}
+
+#Spiderman{
+    background-color: rgba(168, 215, 113, 0.622);
+    color: rgb(1, 2, 5);
+    width: 200px;  
+}   
+
+#Hulk{
+    background-color: rgba(168, 215, 113, 0.622);
+    color: rgb(1, 2, 5);
+    width: 200px;  
+}
+
+#body1{
+    background-color: rgb(220, 155, 133);
+}
